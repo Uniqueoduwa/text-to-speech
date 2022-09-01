@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom right, #ddd6f3, #faaca8);
+  background-repeat: no-repeat;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.badge {
+  background: #70978f;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background: #70978f;
+}
+.last{
+    margin: 20px;
+    text-align: center;
+}
+.fh5{
+    color:#70978f;
+}
+a{
+    color: #70978f;
+    text-decoration: underline;
+}
